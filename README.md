@@ -2,10 +2,8 @@
 This code is part of the course project at
 ## https://class.coursera.org/getdata-009
 
-A full description is available at the site where the data was obtained:
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  
-Here are the data for the project:
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+A full description is available at the<p>A <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">site</a>.</p> where the data was obtained.
+Here are the data for the project: <p>A <a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">data.zip</a>.</p>.
 
 The working directory (for setwd command) should contain activity_labels.txt, features_info.txt, features.txt, README.md, README.txt, test and train when extracted from data zip above.
 
