@@ -1,5 +1,5 @@
 ### Overview
-This code part of the course 
+This code is part of the course project at
 ## https://class.coursera.org/getdata-009
 
 A full description is available at the site where the data was obtained:
