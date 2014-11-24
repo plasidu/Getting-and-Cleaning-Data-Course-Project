@@ -10,7 +10,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The working directory (for setwd command) should contain activity_labels.txt, features_info.txt, features.txt, README.md, README.txt, test and train when extracted from data zip above.
 
 ### Recipe
-in R: source('/path/to/run_analysis.R'), than setwd('/working/dir/with/Samsungdata'), run_analysis()
+in R: 
+> source('/path/to/run_analysis.R')
+> setwd('/working/dir/with/samsungdata')
+> run_analysis()
+where /path/to/run_analysis.R is your path to the file from this repo,
+	and
+/working/dir/samsung_data path to directory, where downloaded zip archive was extracted.
 
 ### Codebook
 The tidy dataset in tidy.txt includes:
