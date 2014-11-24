@@ -9,11 +9,11 @@ The working directory (for setwd command) should contain activity_labels.txt, fe
 
 ### Recipe
 in R: 
- > source('/path/to/run_analysis.R')
+ >> source('/path/to/run_analysis.R')
 
- > setwd('/working/dir/with/samsungdata')
+ >> setwd('/working/dir/with/samsungdata')
 
- > run_analysis()
+ >> run_analysis()
 
 where /path/to/run_analysis.R is your path to the file from this repo,
 	and
